@@ -1,0 +1,21 @@
+# Site settings
+title: My Coding Road to a Career
+header-img: img/home-bg.png
+email: popemray1986@gmail.com
+copyright_name: popemray00
+description: > # this means to ignore newlines until "baseurl:"
+  Follow my path to a career
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: popemon86
+github_username:  popemray00
+learn_profile: popemray00
+email_username: popemray1986@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
