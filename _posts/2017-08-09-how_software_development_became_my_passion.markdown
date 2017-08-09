@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "**How software development became my passion**"
-date:   2017-08-09 03:44:31 +0000
+date:   2017-08-08 23:44:31 -0400
 ---
 
 
