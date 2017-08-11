@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "**How software development became my passion**"
+title:  "How software development became my passion!"
 date:   2017-08-08 23:44:31 -0400
 ---
 
