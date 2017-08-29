@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My real life struggles while learning to code!"
-date:   2017-08-29 23:44:03 +0000
+date:   2017-08-29 19:44:04 -0400
 ---
 
 
